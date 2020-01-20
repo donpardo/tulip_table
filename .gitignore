@@ -1,0 +1,5 @@
+# no pesky Freecad backup files, please
+*.[Ff][Cc][Ss][Tt][Dd][0-9]
+# no gcode neither
+*.gcode
+
