@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="48in"
+   height="36in"
+   viewBox="0 0 1219.2 914.40003"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="683.30748"
-     inkscape:cy="847.56523"
+     inkscape:zoom="0.24421306"
+     inkscape:cx="2303.9952"
+     inkscape:cy="1727.9993"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,8 @@
      inkscape:window-height="1025"
      inkscape:window-x="67"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="in" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -51,12 +52,14 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,617.40002)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 80.180857,93.875155 V 210.67194 l 51.574673,0.75595 c 20.5308,0.0781 -29.81955,-4.58251 -39.609613,-7.66975 -5.28054,-0.86388 -6.619669,-16.87319 -7.421477,-91.70866 -10e-7,-15.50163 107.44801,-15.017679 97.24951,-18.167639 -101.793093,-0.0067 -101.793093,-0.0067 -101.793093,-0.0067 z"
-       id="path3713"
+       style="fill:none;stroke:#000000;stroke-width:2.53911757px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1.2695588,-616.12991 V 289.85874 L 613.59927,295.72262 C 857.35494,296.32844 259.56123,260.17625 143.32692,236.22863 80.632749,229.52755 64.733689,105.34388 55.214079,-475.15229 55.214069,-595.39791 1330.9102,-591.64392 1209.8266,-616.07805 1.2695588,-616.13005 1.2695588,-616.13005 1.2695588,-616.13005 Z"
+       id="tulip_outline"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccc"
+       inkscape:label="#path3713" />
   </g>
 </svg>
